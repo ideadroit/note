@@ -1,0 +1,25 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "note",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideadroit/note.git"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "ideadroit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ideadroit/note/issues"
+  },
+  "homepage": "https://github.com/ideadroit/note#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  }
+}
